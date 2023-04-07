@@ -1,5 +1,12 @@
 let cards = [
   //  Add your card in this section
+   {
+    artName: 'Rotating Smartphone',
+    pageLink: './Art/LabinotVeseli/smartphone.html',
+    imageLink: './Art/LabinotVeseli/smartphone.gif',
+    author: 'Labinot Veseli',
+    githubLink: 'https://github.com/labinotveseli'
+  },
   {
     artName: 'Hello World!',
     pageLink: './Art/Rabia/index.html',
